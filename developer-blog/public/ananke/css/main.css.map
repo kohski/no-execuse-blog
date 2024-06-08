@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/kimura.kosuke/repos/github.com/kohski/no-execuse-blog/quickstart",
+	"sourceRoot": "/Users/kimura.kosuke/repos/github.com/kohski/no-execuse-blog/developer-blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
