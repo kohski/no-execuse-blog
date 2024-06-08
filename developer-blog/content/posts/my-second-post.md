@@ -1,7 +1,7 @@
 +++
 title = 'My Second Post'
 date = 2024-06-08T20:59:06+09:00
-draft = true
+draft = false
 +++
 
 こんにちはこれは二つ目のポストです。
