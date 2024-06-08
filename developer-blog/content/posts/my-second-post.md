@@ -9,4 +9,4 @@ draft = false
 [link](../my-first-post#introduction)
 [link](../my-first-post#日本語見出しはどうなん)
 [link](../my-first-post#レベル3は-どうなん)
-[link](../my-first-post#introduction-1)
+[link](../my-first-post#introduction-1)!
