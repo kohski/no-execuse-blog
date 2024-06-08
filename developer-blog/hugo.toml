@@ -1,4 +1,4 @@
-baseURL = 'https://kohski.dev/'
+baseURL = 'https://no-excuse.kohski.dev/'
 languageCode = 'ja-jp'
 title = 'Hugoのサンプルサイト'
 theme = 'ananke'
