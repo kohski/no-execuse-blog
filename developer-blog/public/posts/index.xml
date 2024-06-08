@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Sat, 08 Jun 2024 20:59:06 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>こんにちはこれは二つ目のポストです。&#xA;link</description>
+      <description>こんにちはこれは二つ目のポストです。&#xA;link link link link</description>
     </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 08 Jun 2024 16:59:11 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;const message = &amp;#34;Hello World!!&amp;#34; console.log(message) </description>
+      <description>blanks a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;const message = &amp;#34;Hello World!!&amp;#34; console.log(message) 日本語見出しはどうなん？ a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;レベル3は どうなん？ a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;a&#xA;Introduction </description>
     </item>
   </channel>
 </rss>
