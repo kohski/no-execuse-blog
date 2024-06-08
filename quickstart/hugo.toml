@@ -1,0 +1,4 @@
+baseURL = 'https://kohski.dev/'
+languageCode = 'ja-jp'
+title = 'Hugoのサンプルサイト'
+theme = 'ananke'
